@@ -1,5 +1,4 @@
 # VHAN-DTI
-唱跳rap
 
 #### Environment：Torch 1.13， DGL 1.12;
 
